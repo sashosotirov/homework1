@@ -7,3 +7,9 @@
 - automated code build
 - test sequence
 - merge
+
+
+
+
+
+![alt text](https://github.com/sashosotirov/homework1/blob/main/ci-cd-flow-desktop_0.png)
